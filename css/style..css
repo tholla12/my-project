@@ -1095,3 +1095,6 @@ div.header {
   width: 120px;
   font-weight: bolder;
 }
+body{
+  background-color: red;
+}
